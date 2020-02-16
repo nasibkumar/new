@@ -4,14 +4,18 @@
 <title>Page Title</title>
 </head>
 <body>
-<h1><strong>Welcome, here to learn the different programming language and markup language</strong></h1>
+<h1><strong>Welcome, here to learn the different programming language and markup language......</strong></h1>
 <h2><center><u><font color="blue">Some popular programming languages/html</font></u></center></h2>
-<ol type="1">
-<li>c</li>
+<ul>
+<strong><li>c</li>
 <li>c++</li>
 <li>java</li>
 <li>python</li>
 <li>c#</li>
-</ol>
+<li>javascript</li>
+<li>php</li>
+<li>html</li></strong>
+</ul>
+<
 </body>
 </html>
